@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473792297014",
+    "project_id": "loginmx-facef",
+    "storage_bucket": "loginmx-facef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473792297014:android:a037a7fbc6fd4931320097",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_mx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473792297014-d5hmtafg041j8e04r0uehtus4rs83quv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHYhhiubogRDnkQKkwlJA6IQW9aQR26Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473792297014-d5hmtafg041j8e04r0uehtus4rs83quv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
